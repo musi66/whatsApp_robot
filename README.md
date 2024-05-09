@@ -1,3 +1,5 @@
+whatsApp机器人, whatsApp逆向, whatsApp hook, whatsApp脚本 发消息, 拦截消息
+
 # 通过hook 插件 的方式实现
 支持以下环境
 1. xposed,edxposed,lsp环境
