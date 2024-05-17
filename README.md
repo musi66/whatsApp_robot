@@ -15,8 +15,8 @@ whatsApp机器人, whatsApp逆向, whatsApp hook, whatsApp脚本 发消息, 拦�
 
 
 # 联系方式
-飞机✈️: musi68888
+飞机✈️: feifeilove888888
 
-wx: ll591658
+wx: love111_feifeifei
 
 本文仅供学习交流，严禁用于商业用途
